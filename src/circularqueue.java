@@ -80,7 +80,7 @@ public class circularqueue {
         q.add(6);
         System.out.println(q.remove());
         q.add(7);
-s
+
 
         while(!q.isEmpty()) {
             System.out.println(q.remove());
